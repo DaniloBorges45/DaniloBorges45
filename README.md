@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-linguanote-borges-aa238127b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <div>
-   <a href="https://github.com/LuizFelipeMelo18">
+   <a href="https://github.com/DaniloBorges45">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloBorges45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBorges45&layout=compact&langs_count=6&theme=tokyonight"/>
 
